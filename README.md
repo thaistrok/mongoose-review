@@ -182,7 +182,7 @@ package-lock.json
 .env
 ```
 
-Leave the `.env` file empty for now.
+Leave the `.env` file empty for now. 
 
 
 ### Getting Our Connection String
